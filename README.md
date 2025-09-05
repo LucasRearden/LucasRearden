@@ -48,10 +48,6 @@ I’m a proactive and fast-learning developer with a passion for teamwork and cl
   City-based weather search with responsive UI and public API consumption.  
   Repo: https://github.com/LucasRearden/App-Clima-ReactJS · Live Demo: https://app-clima-lucasrearden-reactjs.netlify.app/
 
-- **Shopping Cart Demo (React + Context)** *(academically developed)*  
-  Product catalog with add/remove item, quantity adjust, and reusable components.  
-  Repo: *(add link when available)*
-
 ---
 
 ###  Multilingual Support
