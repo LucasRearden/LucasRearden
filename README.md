@@ -1,40 +1,31 @@
 <!-- Banner / Title -->
-<h1 align="center">Hola, soy Lucas Rearden 👋</h1>
+<h1 align="center">Hi, I'm Lucas Rearden 👋</h1>
 <p align="center">
-  Desarrollador Full-Stack (JS / React / Node) · C#/.NET · Estudiante ATI @ ORT · Montevideo, Uruguay
+  Full-Stack Developer (JS / React / Node) · C#/.NET · Software Development Student @ ORT · Montevideo, Uruguay
 </p>
 
 <p align="center">
-  <a href="https://lucasrearden.netlify.app" target="_blank">🌐 Portafolio</a> •
+  <a href="https://lucasrearden.netlify.app" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/lucas-rearden-34b050349/" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-### 🧭 Sobre mí
-- 🎯 Soy proactivo, con gran capacidad de aprendizaje y adaptación. Me enfoco en crear **soluciones eficientes** y trabajar en **equipo**.
-- 💻 Me muevo cómodo en **JavaScript/TypeScript** (React, Node/Express, MongoDB) y también en **C#/.NET** (WinForms/ASP.NET, SQL).
-- 📚 Estudio **Analista Programador (ATI)** en **Universidad ORT Uruguay**.
-- 🚀 Intereses: Front-end moderno, APIs REST, bases de datos, pruebas y despliegue.
+###  About Me
+I’m a proactive and fast-learning developer with a passion for teamwork and clean code. I focus on building **efficient, maintainable solutions**.
 
-<details>
-<summary><b>English</b> 🇬🇧</summary>
-
-- I’m proactive, quick to learn, and love teamwork. I focus on building **efficient solutions**.
-- Comfortable with **JavaScript/TypeScript** (React, Node/Express, MongoDB) and **C#/.NET** (WinForms/ASP.NET, SQL).
-- Studying **Software Development (ATI)** at **Universidad ORT Uruguay**.
-- Interests: modern Front-end, REST APIs, databases, testing & deployment.
-
-</details>
+- Skilled in **JavaScript/TypeScript** (React, Node.js/Express, MongoDB) and **C#/.NET** (WinForms, ASP.NET, SQL).
+- Currently studying **Software Development (ATI)** at **Universidad ORT Uruguay**.
+- Interests: modern front-end development, RESTful APIs, databases, testing, and deployments.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 **Front-end:** React · Vite · Bootstrap · i18next · HTML · CSS  
 **Back-end:** Node.js · Express · REST APIs  
-**DB:** MongoDB · Mongoose · SQL Server  
-**.NET / C#:** WinForms · ASP.NET · ADO/ODBC  
-**Tools:** Git/GitHub · Postman · Docker (básico)
+**Database:** MongoDB · Mongoose · SQL Server  
+**.NET / C#:** WinForms · ASP.NET · SQL (ADO/ODBC)  
+**Tools & Practices:** Git & GitHub · Postman · Docker (basics)
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
@@ -52,64 +43,62 @@
 
 ---
 
-### 📌 Proyectos Destacados
-- 🌤️ **App Clima – ReactJS**  
-  Buscador de clima por ciudad, UI responsive y consumo de API pública.  
-  Repo: https://github.com/LucasRearden/App-Clima-ReactJS · Demo: https://app-clima-lucasrearden-reactjs.netlify.app/
+###  Featured Projects
+- **Weather App – ReactJS**  
+  City-based weather search with responsive UI and public API consumption.  
+  Repo: https://github.com/LucasRearden/App-Clima-ReactJS · Live Demo: https://app-clima-lucasrearden-reactjs.netlify.app/
 
-- 🐶 **Paseadores de Perros (JS/Front)** *(en desarrollo)*  
-  Sistema con roles (Cliente/Paseador), solicitudes y cupos por tamaño del perro.  
-  _Repo:_ *(agregar link cuando lo publiques)*
+- **Dog Walkers Platform (Front-end, JS)** *(in development)*  
+  Role-based system (Client/Walker), availability slots by dog size.  
+  Repo: *(add link when available)*
 
-- 📚 **Book Library API (Express + Mongoose)** *(en desarrollo)*  
-  CRUD de libros con validaciones, rutas y conexión a MongoDB.  
-  _Repo:_ *(agregar link cuando lo publiques)*
+- **Book Library API (Express + Mongoose)** *(in development)*  
+  Full CRUD operations on books, with validation and MongoDB integration.  
+  Repo: *(add link when available)*
 
-- 🛒 **Compras / Carrito (React + Context)** *(demo académica)*  
-  Catálogo, carrito, sumar/restar/eliminar, composición de componentes.  
-  _Repo:_ *(agregar link)*
+- **Shopping Cart Demo (React + Context)** *(academically developed)*  
+  Product catalog with add/remove item, quantity adjust, and reusable components.  
+  Repo: *(add link when available)*
 
-> Tip: añadí estos repos al perfil y pinéalos para que queden arriba (GitHub → tu perfil → “Customize your pins”).
-
----
-
-### 🌍 Multilenguaje
-Varias apps de mi portfolio son **bilingües (ES/EN)** usando **i18next** y toggles de idioma.  
-- Mecanismo: `i18next` + `react-i18next`, namespaces, `returnObjects`, y archivos `es.json / en.json`.
+> Tip: Pin these repos on your GitHub profile to showcase them (go to your profile → “Customize your pins”).
 
 ---
 
-### ⚙️ Cómo trabajo
-- **Commits pequeños y claros** (feat/fix/docs/chore).  
-- **Issues y tableros** para organizar tareas.  
-- **Postman** para probar APIs.  
-- **Buenas prácticas**: componentes reutilizables, separación de capas, manejo de estado simple y limpio.
+###  Multilingual Support
+Several projects are **bilingual (Spanish/English)** using **i18next** and language toggles.  
+Implementation includes `i18next` + `react-i18next`, namespaces, `returnObjects`, and separate `es.json` / `en.json` files.
 
 ---
 
-### 📈 Stats (auto)
-> *GitHub Readme Stats (pueden tardar un poquito en cargar)*
+###  Workflow & Best Practices
+- Small, meaningful commit messages (e.g., feat / fix / docs / chore).  
+- Use GitHub Issues & kanban boards for task organization.  
+- Postman for API testing and debugging.  
+- Clean architecture: reusable components, layered separation, minimal state management.
 
+---
+
+###  GitHub Stats (auto-generated)
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRearden&show_icons=true&theme=default" alt="stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRearden" alt="streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasRearden&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRearden" alt="GitHub streak" />
 </p>
 
 ---
 
-### 📫 Contacto
-- Portafolio: **https://lucasrearden.netlify.app/**
-- LinkedIn: **https://www.linkedin.com/in/lucas-rearden-34b050349/**
-<!-- Si querés agregar email: mailto:tucorreo@dominio.com -->
+###  Contact
+- Portfolio: **https://lucasrearden.netlify.app/**  
+- LinkedIn: **https://www.linkedin.com/in/lucas-rearden-34b050349/**  
+> (Optionally, you can add your email: `mailto:yourname@domain.com`)
 
 ---
 
-### ✅ Próximos pasos
-- [ ] Publicar y linkear los repos *Paseadores de Perros*, *Book Library API* y *Compras/Carrito*.  
-- [ ] Agregar screenshots/gifs (Light/Dark) a cada README de proyecto.  
-- [ ] Configurar Actions simples (lint/test/build) y un pre-commit (lint-staged).  
-- [ ] Añadir `LICENSE`, `CONTRIBUTING.md` y `CODE_OF_CONDUCT.md` si abrís colaboración.
+###  Roadmap
+- [ ] Publish & link the *Dog Walkers*, *Book Library API*, and *Shopping Cart* projects.  
+- [ ] Add screenshots or GIFs (Light & Dark modes) to project READMEs.  
+- [ ] Set up basic CI (linting, testing, build) and pre-commit hooks (e.g., lint-staged).  
+- [ ] Add LICENSE, CONTRIBUTING.md, and CODE_OF_CONDUCT.md if accepting contributions.
 
 ---
 
-> _“Aprender rápido, construir sólido y mejorar continuo.”_
+> _“Learn fast, build well, iterate always.”_
