@@ -1,7 +1,7 @@
 <!-- Banner / Title -->
 <h1 align="center">Hi, I'm Lucas Rearden 👋</h1>
 <p align="center">
-  Full-Stack Developer (JS / React / Node) · C#/.NET · Software Development Student @ ORT · Montevideo, Uruguay
+  Full-Stack Developer (JS / React / Node) · C#/.NET · Software Development Student @ ORT · 📍Montevideo, Uruguay
 </p>
 
 <p align="center">
@@ -48,19 +48,9 @@ I’m a proactive and fast-learning developer with a passion for teamwork and cl
   City-based weather search with responsive UI and public API consumption.  
   Repo: https://github.com/LucasRearden/App-Clima-ReactJS · Live Demo: https://app-clima-lucasrearden-reactjs.netlify.app/
 
-- **Dog Walkers Platform (Front-end, JS)** *(in development)*  
-  Role-based system (Client/Walker), availability slots by dog size.  
-  Repo: *(add link when available)*
-
-- **Book Library API (Express + Mongoose)** *(in development)*  
-  Full CRUD operations on books, with validation and MongoDB integration.  
-  Repo: *(add link when available)*
-
 - **Shopping Cart Demo (React + Context)** *(academically developed)*  
   Product catalog with add/remove item, quantity adjust, and reusable components.  
   Repo: *(add link when available)*
-
-> Tip: Pin these repos on your GitHub profile to showcase them (go to your profile → “Customize your pins”).
 
 ---
 
@@ -89,16 +79,6 @@ Implementation includes `i18next` + `react-i18next`, namespaces, `returnObjects`
 ###  Contact
 - Portfolio: **https://lucasrearden.netlify.app/**  
 - LinkedIn: **https://www.linkedin.com/in/lucas-rearden-34b050349/**  
-> (Optionally, you can add your email: `mailto:yourname@domain.com`)
+- Email: lucasrearden2014@gmail.com
 
----
-
-###  Roadmap
-- [ ] Publish & link the *Dog Walkers*, *Book Library API*, and *Shopping Cart* projects.  
-- [ ] Add screenshots or GIFs (Light & Dark modes) to project READMEs.  
-- [ ] Set up basic CI (linting, testing, build) and pre-commit hooks (e.g., lint-staged).  
-- [ ] Add LICENSE, CONTRIBUTING.md, and CODE_OF_CONDUCT.md if accepting contributions.
-
----
-
-> _“Learn fast, build well, iterate always.”_
+_Stay hard_
