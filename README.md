@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Lucas Rearden" width="100%" />
+  <img src="banner.png" alt="Banner Lucas Rearden" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Lucas Rearden 👋</h1>
