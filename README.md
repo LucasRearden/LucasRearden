@@ -1,4 +1,8 @@
-<!-- Banner / Title -->
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Lucas Rearden" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Lucas Rearden 👋</h1>
 <p align="center">
   Full-Stack Developer (JS / React / Node) · C#/.NET · Software Development Student @ ORT · 📍Montevideo, Uruguay
