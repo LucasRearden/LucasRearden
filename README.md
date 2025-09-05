@@ -80,5 +80,3 @@ Implementation includes `i18next` + `react-i18next`, namespaces, `returnObjects`
 - Portfolio: **https://lucasrearden.netlify.app/**  
 - LinkedIn: **https://www.linkedin.com/in/lucas-rearden-34b050349/**  
 - Email: lucasrearden2014@gmail.com
-
-_Stay hard_
